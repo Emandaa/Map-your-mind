@@ -1,0 +1,21 @@
+﻿Reads in three numbers and writes them all in sorted order
+
+
+Pseudo code:
+Read numA, numB, numC
+If (numA < numB)
+    If (numB < numC)
+        Write numA, numB, numC
+    else
+        If (numC<numA)
+             Write numC, numA, numB
+         else
+          Write numA, numC, numB
+else
+    If (numA < numC)
+        Write numB, numA, numC
+     else
+         If (numA< numC)
+             Write numB, numA, numC
+         else
+          Write numB, numC, numA

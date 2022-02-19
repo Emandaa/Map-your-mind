@@ -1,0 +1,13 @@
+﻿Calculate the sum of squares of given input of numbers
+
+
+
+
+Pseudo Code:
+
+
+Read i
+Assign i=0, Set sum= 0, count=0
+While (i>=0)
+       Set sum = i + sum
+   Print sum of squares

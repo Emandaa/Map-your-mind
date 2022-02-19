@@ -1,0 +1,9 @@
+﻿Running Sum
+Pseudo code:
+
+
+Read i
+Assign i=0, Set sum= 0
+While (i>=0)
+         Set sum = i + sum
+         Read i
